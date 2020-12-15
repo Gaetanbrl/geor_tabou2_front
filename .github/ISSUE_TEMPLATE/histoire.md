@@ -19,7 +19,7 @@ Décrire ici ce qui est attendu par un personnage clairement identifié.
 
 Décrire ici les règles techniques ou métier imposées pour cette issue (ex: être connecter, avoir un rôle particulier, ne s'afficher que dans certains cas, récupérer les informations d'un élément précis, etc...).
 
-## (Si) Tests d'acceptabilité
+## (Si) Tests d'acceptance
 
 Décrire ici les étapes de tests numérotées permettant de valider l'issue.
 
